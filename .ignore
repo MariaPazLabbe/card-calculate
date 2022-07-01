@@ -1,0 +1,6 @@
+#Ignore file named '.DS_Store'
+.DS_Store
+#Ignore file named 'app.js'
+app.js
+#Ignore file named 'ejercicio.js'
+ejercicio.js
